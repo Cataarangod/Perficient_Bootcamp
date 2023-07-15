@@ -253,3 +253,7 @@ C:\Users\USUARIO\Documents\Perficient\Discoteque.API\obj\Debug\net7.0\refint\Dis
 C:\Users\USUARIO\Documents\Perficient\Discoteque.API\obj\Debug\net7.0\Discoteque.API.pdb
 C:\Users\USUARIO\Documents\Perficient\Discoteque.API\obj\Debug\net7.0\Discoteque.API.genruntimeconfig.cache
 C:\Users\USUARIO\Documents\Perficient\Discoteque.API\obj\Debug\net7.0\ref\Discoteque.API.dll
+C:\Users\USUARIO\Documents\Perficient\Discoteque.API\bin\Debug\net7.0\Discoteque.Business.dll
+C:\Users\USUARIO\Documents\Perficient\Discoteque.API\bin\Debug\net7.0\Discoteque.Data.dll
+C:\Users\USUARIO\Documents\Perficient\Discoteque.API\bin\Debug\net7.0\Discoteque.Data.pdb
+C:\Users\USUARIO\Documents\Perficient\Discoteque.API\bin\Debug\net7.0\Discoteque.Business.pdb

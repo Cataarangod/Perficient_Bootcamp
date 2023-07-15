@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "q0nUSiIM+h/ey2vJiYFx8UkAmff59pToSx7Zpjgsf2kGCIEe7kgHF5Lf6au7x6V4QPf8ujNXDD2XRL/J/r2t7g==",
+  "dgSpecHash": "ijNHyApxcVq69COdHz7kq15nHewVzlUcnc6Rp+0BlbufmJ92n9p66fHC0+pgqK6Yvx8ivqHpnfuN2unxUlZ4JA==",
   "success": true,
-  "projectFilePath": "c:\\Users\\USUARIO\\Documents\\Perficient\\Discoteque.Data\\Discoteque.Data.csproj",
+  "projectFilePath": "C:\\Users\\USUARIO\\Documents\\Perficient\\Discoteque.Data\\Discoteque.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USUARIO\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.9\\microsoft.entityframeworkcore.7.0.9.nupkg.sha512",
     "C:\\Users\\USUARIO\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.9\\microsoft.entityframeworkcore.abstractions.7.0.9.nupkg.sha512",

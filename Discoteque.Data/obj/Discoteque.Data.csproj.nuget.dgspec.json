@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\USUARIO\\Documents\\Perficient\\Discoteque.Data\\Discoteque.Data.csproj": {}
+    "C:\\Users\\USUARIO\\Documents\\Perficient\\Discoteque.Data\\Discoteque.Data.csproj": {}
   },
   "projects": {
-    "c:\\Users\\USUARIO\\Documents\\Perficient\\Discoteque.Data\\Discoteque.Data.csproj": {
+    "C:\\Users\\USUARIO\\Documents\\Perficient\\Discoteque.Data\\Discoteque.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\USUARIO\\Documents\\Perficient\\Discoteque.Data\\Discoteque.Data.csproj",
+        "projectUniqueName": "C:\\Users\\USUARIO\\Documents\\Perficient\\Discoteque.Data\\Discoteque.Data.csproj",
         "projectName": "Discoteque.Data",
-        "projectPath": "c:\\Users\\USUARIO\\Documents\\Perficient\\Discoteque.Data\\Discoteque.Data.csproj",
+        "projectPath": "C:\\Users\\USUARIO\\Documents\\Perficient\\Discoteque.Data\\Discoteque.Data.csproj",
         "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\USUARIO\\Documents\\Perficient\\Discoteque.Data\\obj\\",
+        "outputPath": "C:\\Users\\USUARIO\\Documents\\Perficient\\Discoteque.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config"
